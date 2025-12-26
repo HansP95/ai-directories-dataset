@@ -17,7 +17,7 @@ https://300aidirectories.com/#pricing?src=github-readme
 ## 320 AI directories
 
 | Directory | Link | Submit | DR | Visits/mo | Submission | Pricing |
-|---|---:|---:|---:|---:|---|---|
+|---|---|---|---:|---:|---|---|
 | 100 AI Apps | https://100apps.org/ | https://100apps.org/ | 0.6 | 1000 | good | paid |
 | 1000 Tools | https://1000.tools/ | https://1000.tools/my/tools/create | 23 | 7500 | good | paid |
 | 1000gpt.shop | https://1000gpt.shop/ | https://buy.stripe.com/dR6eVi1lRgj9bsY4gg | 1 | 1000 | good | paid |
