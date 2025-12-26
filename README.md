@@ -4,8 +4,7 @@ Curated list of AI directories with **submission links** + useful metadata (DR, 
 Includes a free Notion tracker template.
 
 ## Download
-- CSV: `data/ai-directories.csv`
-- JSON: `data/ai-directories.json`
+- TXT: `/directories.txt`
 
 ## Notion template
 AI Directory Submission Tracker (free):
