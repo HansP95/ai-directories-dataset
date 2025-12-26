@@ -14,329 +14,330 @@ https://arrow-mice-e55.notion.site/AI-Directory-Submission-Tracker-7b1d5fc2363c4
 Manual submission to **300+ directories** + report:
 https://300aidirectories.com/#pricing?src=github-readme
 
-320 AI directories
-[
-  { name: "100 AI Apps", link: "https://100apps.org/", submissionLink: "https://100apps.org/", domainRating: 0.6, monthlyVisits: 1000, submissionExperience: "good", pricing: "paid" },
-  { name: "1000 Tools", link: "https://1000.tools/", submissionLink: "https://1000.tools/my/tools/create", domainRating: 23, monthlyVisits: 7500, submissionExperience: "good", pricing: "paid" },
-  { name: "1000gpt.shop", link: "https://1000gpt.shop/", submissionLink: "https://buy.stripe.com/dR6eVi1lRgj9bsY4gg", domainRating: 1, monthlyVisits: 1000, submissionExperience: "good", pricing: "paid" },
-  { name: "1payment Tools", link: "https://1payment.tools/", submissionLink: "https://1payment.tools/cabinet/apps/new", domainRating: 0.8, monthlyVisits: 1000, submissionExperience: "good", pricing: "paid" },
-  { name: "Advanced Innovation", link: "https://www.advanced-innovation.io/", submissionLink: "https://www.advanced-innovation.io/ki-tool-einreichen", domainRating: 20, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "Afford Hunt", link: "https://affordhunt.com/", submissionLink: "https://t.co/zZB1Yxgf8s", domainRating: 56, monthlyVisits: 80000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Center", link: "https://aicenter.ai/", submissionLink: "https://aicenter.ai/products/submit", domainRating: 10, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "AI combined", link: "https://aicombined.com/", submissionLink: "https://aicombined.com/add-listing/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Depot", link: "https://aidepot.co/", submissionLink: "https://t.co/d7KH891ypL", domainRating: 11, monthlyVisits: 30000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AI Dir", link: "https://www.aidir.cc/", submissionLink: "https://www.aidir.cc/submit/", domainRating: 10, monthlyVisits: 100, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Directory", link: "https://www.aidirectory.org/", submissionLink: "https://www.aidirectory.org/user-submit/", domainRating: 10, monthlyVisits: 5700, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Dude Info", link: "https://www.aiwizard.ai/", submissionLink: "https://aidude.info/submit-your-tool", domainRating: 13, monthlyVisits: 84700, submissionExperience: "good", pricing: "paid" },
-  { name: "AI Explorer", link: "https://www.aiexplorer.app/", submissionLink: "https://www.aiexplorer.app/", domainRating: 10, monthlyVisits: 24000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Finder", link: "https://ai-finder.net/", submissionLink: "https://ai-finder.net/add", domainRating: 54, monthlyVisits: 263000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Gadget", link: "https://aigadget.io/", submissionLink: "https://aigadget.io/", domainRating: 12, monthlyVisits: 23000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Hub", link: "https://www.aihub.fyi/", submissionLink: "https://www.aihub.fyi/form", domainRating: 22, monthlyVisits: 1300, submissionExperience: "good", pricing: "free" },
-  { name: "AI Hunter", link: "https://ai-hunter.io/", submissionLink: "https://ai-hunter.io/submit-ai-tool/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Infinity", link: "https://aiinfinity-meetpatel.notion.site/", submissionLink: "https://forms.gle/Ze6pdWzmweCfKWnLA", domainRating: 91, monthlyVisits: 2000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Lib", link: "https://ailib.ru/", submissionLink: "https://ailib.ru/", domainRating: 23, monthlyVisits: 119000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Library", link: "https://library.phygital.plus/", submissionLink: "https://library.phygital.plus/tool-submission", domainRating: 17, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Marketing", link: "https://aimarketing.directory/", submissionLink: "https://aimarketing.directory/submit", domainRating: 12, monthlyVisits: 9600, submissionExperience: "good", pricing: "free" },
-  { name: "AI scout", link: "https://aiscout.net/", submissionLink: "https://aiscout.net/submit-listing/details/", domainRating: 43, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "AI Search", link: "https://ai-search.io/", submissionLink: "https://ai-search.io/submit", domainRating: 10, monthlyVisits: 4000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Spree", link: "https://aispree.com/", submissionLink: "https://aispree.com/", domainRating: 5, monthlyVisits: 700, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Startups", link: "https://www.aistartups.net/", submissionLink: "https://www.aistartups.net/submit/", domainRating: 12, monthlyVisits: 37000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Stash", link: "https://www.aistash.co/", submissionLink: "https://www.aistash.co/submit-tool", domainRating: 20, monthlyVisits: 15000, submissionExperience: "good", pricing: "paid" },
-  { name: "AI To Grow", link: "https://aitogrow.com/", submissionLink: "https://aitogrow.com/#send-your-tool/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tool Board", link: "https://aitoolboard.com/", submissionLink: "https://aitoolboard.com/submit-ai-tool", domainRating: 3, monthlyVisits: 7000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AI Tool guru", link: "https://aitoolguru.com/", submissionLink: "https://aitoolguru.com/submit-ai-tool", domainRating: 31, monthlyVisits: 27000, submissionExperience: "good", pricing: "free" },
-  { name: "AI tool hunt", link: "https://www.aitoolhunt.com/", submissionLink: "https://www.aitoolhunt.com/addTool", domainRating: 22, monthlyVisits: 80000, submissionExperience: "good", pricing: "paid" },
-  { name: "AI Tool NET", link: "https://www.aitoolnet.com/", submissionLink: "https://www.aitoolnet.com/", domainRating: 35, monthlyVisits: 160000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tool Tracker", link: "https://aitooltracker.com/", submissionLink: "https://aitooltracker.com/dashboard/#submit", domainRating: 15, monthlyVisits: 30000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Tools Arena", link: "https://aitoolsarena.com/", submissionLink: "https://aitoolsarena.com/", domainRating: 8, monthlyVisits: 700, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Tools Directory", link: "https://www.aitools.directory/", submissionLink: "https://www.aitools.directory/", domainRating: 5, monthlyVisits: 10000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI tools directory COM", link: "https://aitoolsdirectory.com/", submissionLink: "https://aitoolsdirectory.com/submit-tool", domainRating: 10, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Directory HCILAB", link: "https://www.hcilab.org/ai-tools-directory/", submissionLink: "https://www.hcilab.org/ai-tools-directory/", domainRating: 20, monthlyVisits: 30000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI tools for Marketing", link: "https://airadar.getinference.com/", submissionLink: "https://airadar.getinference.com/", domainRating: 14, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Guide", link: "https://aitoolsguide.com/", submissionLink: "https://aitoolsguide.com/contact/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Tools Hunter", link: "https://ai-hunter.io/", submissionLink: "https://ai-hunter.io/submit-ai-tool/", domainRating: 10, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Neil Patel", link: "https://aitools.neilpatel.com/", submissionLink: "https://aitools.neilpatel.com/submit/", domainRating: 91, monthlyVisits: 6000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Up", link: "https://aitoolsup.com/", submissionLink: "https://aitoolsup.com/submit-tool/", domainRating: 2, monthlyVisits: 700, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Wiki", link: "https://aitoolswiki.com/", submissionLink: "https://aitoolswiki.com/contact-us/", domainRating: 10, monthlyVisits: 9000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AI Top Picks", link: "https://www.aitoppicks.com/", submissionLink: "https://www.aitoppicks.com/", domainRating: 10, monthlyVisits: 5800, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AI trendz", link: "https://aitrendz.xyz/", submissionLink: "https://aitrendz.xyz/submit-ai-link/", domainRating: 8, monthlyVisits: 90, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AI Valley", link: "https://aivalley.ai/", submissionLink: "https://aivalley.ai/submit-tool/", domainRating: 25, monthlyVisits: 230000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Wizard", link: "https://www.aiwizard.ai/", submissionLink: "https://www.aiwizard.ai/submit", domainRating: 10, monthlyVisits: 5000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AIToolKit", link: "https://www.aitoolkit.org/", submissionLink: "https://www.aitoolkit.org/submit/", domainRating: 25, monthlyVisits: 71000, submissionExperience: "good", pricing: "free" },
-  { name: "AIX Collection", link: "https://aixcollection.com/", submissionLink: "https://aixcollection.com/submit", domainRating: 10, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "Aixploria", link: "https://www.aixploria.com/en/", submissionLink: "https://www.aixploria.com/en/add-ai/", domainRating: 17, monthlyVisits: 584000, submissionExperience: "good", pricing: "free" },
-  { name: "All things AI", link: "https://allthingsai.com/", submissionLink: "https://allthingsai.com/submit", domainRating: 27, monthlyVisits: 500000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "All Top Startups", link: "https://alltopstartups.com/", submissionLink: "https://alltopstartups.com/submit-startup/", domainRating: 64, monthlyVisits: 70000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "AllStartups Info", link: "https://www.allstartups.info/", submissionLink: "https://www.allstartups.info/Startups/Submit", domainRating: 33, monthlyVisits: 17000, submissionExperience: "good", pricing: "free" },
-  { name: "Altern AI", link: "https://altern.ai/", submissionLink: "https://altern.ai/dash/submit", domainRating: 25, monthlyVisits: 180000, submissionExperience: "good", pricing: "free" },
-  { name: "Alternative", link: "https://alternative.me/", submissionLink: "https://alternative.me/how-to/submit-software/", domainRating: 77, monthlyVisits: 2000000, submissionExperience: "bad", pricing: "free" },
-  { name: "Alternatives.co", link: "https://alternatives.co/software/ai-tools/", submissionLink: "https://alternatives.co/software/ai-tools/", domainRating: 12, monthlyVisits: 19000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "AlternativeTo", link: "https://alternativeto.net/", submissionLink: "https://alternativeto.net/manage-item/", domainRating: 80, monthlyVisits: 1300000, submissionExperience: "good", pricing: "free" },
-  { name: "AlterOpen", link: "https://alteropen.com/", submissionLink: "https://github.com/alteropen-com/alteropen/tree/main/content/app", domainRating: 0, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "Amaete AI", link: "https://www.amaete.ai/", submissionLink: "https://www.amaete.ai/", domainRating: 11, monthlyVisits: 4000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Ankore", link: "https://ankore.io/", submissionLink: "https://ankore.io/submit/", domainRating: 0.4, monthlyVisits: 1500, submissionExperience: "good", pricing: "paid" },
-  { name: "Anyfp", link: "https://anyfp.com/", submissionLink: "https://anyfp.com/contact/", domainRating: 33, monthlyVisits: 1000, submissionExperience: "good", pricing: "paid" },
-  { name: "Apps and Websites", link: "https://appsandwebsites.com/", submissionLink: "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html", domainRating: 21, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Appscriber", link: "https://appscribed.com/", submissionLink: "https://appscribed.com/product-list/", domainRating: 34, monthlyVisits: 42100, submissionExperience: "good", pricing: "free" },
-  { name: "AppsHunter", link: "https://appsthunder.com/", submissionLink: "https://appsthunder.com/submit-your-app/", domainRating: 29, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AppSumo", link: "https://appsumo.com/", submissionLink: "https://appsumo.com/", domainRating: 82, monthlyVisits: 3300000, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Ben's Bites News", link: "https://news.bensbites.co/", submissionLink: "https://news.bensbites.com/submit", domainRating: 39, monthlyVisits: 13000, submissionExperience: "good", pricing: "free" },
-  { name: "Best AI To", link: "https://bestaito.com/", submissionLink: "https://bestaito.com/submit-a-ai-tool/", domainRating: 12, monthlyVisits: 162000, submissionExperience: "good", pricing: "paid" },
-  { name: "Best AI Tools", link: "https://www.startupaitools.com/", submissionLink: "https://www.startupaitools.com/", domainRating: 10, monthlyVisits: 900, submissionExperience: "good", pricing: "free" },
-  { name: "Beta List", link: "https://betalist.com/", submissionLink: "https://betalist.com/submissions/new", domainRating: 70, monthlyVisits: 180000, submissionExperience: "bad", pricing: "free" },
-  { name: "BizRaw", link: "https://bizraw.com/", submissionLink: "https://bizraw.com/whats-new/posts/98/", domainRating: 73, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "BroUseAI", link: "https://www.brouseai.com/", submissionLink: "https://www.brouseai.com/", domainRating: 35, monthlyVisits: 31000, submissionExperience: "good", pricing: "free" },
-  { name: "Buffer Apps", link: "https://www.bufferapps.com/", submissionLink: "https://www.bufferapps.com/beta-listing/new", domainRating: 11, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Chat AI Apps", link: "https://www.chataiapps.com/", submissionLink: "https://www.chataiapps.com/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "ChatGate AI", link: "https://explore.chatgate.ai/", submissionLink: "https://explore.chatgate.ai/submit-your-tool/", domainRating: 18, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "ChatGPT demo", link: "https://chatgptdemo.com/", submissionLink: "https://chatgptdemo.com/submit-a-product/", domainRating: 30, monthlyVisits: 400000, submissionExperience: "good", pricing: "free" },
-  { name: "Crazy About Startups", link: "https://crazyaboutstartups.com/", submissionLink: "https://crazyaboutstartups.com/share-your-startup-2", domainRating: 33, monthlyVisits: 5000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Creator Supply", link: "https://creator.supply/", submissionLink: "https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/", domainRating: 21, monthlyVisits: 1000, submissionExperience: "good", pricing: "free" },
-  { name: "Crozdesk", link: "https://crozdesk.com/", submissionLink: "https://vendor.softwareselect.com/", domainRating: 74, monthlyVisits: 200000, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Crunchbase", link: "https://www.crunchbase.com/", submissionLink: "https://www.crunchbase.com/add-new/", domainRating: 80, monthlyVisits: 10000000, submissionExperience: "good", pricing: "free" },
-  { name: "Daily tech AI", link: "https://www.dailytech.ai/", submissionLink: "https://www.dailytech.ai/submit-service", domainRating: 11, monthlyVisits: 23000, submissionExperience: "good", pricing: "free" },
-  { name: "Dang AI", link: "https://dang.ai/", submissionLink: "https://dang.ai/", domainRating: 45, monthlyVisits: 27700, submissionExperience: "good", pricing: "paid" },
-  { name: "Dev Hunt", link: "https://devhunt.org/", submissionLink: "https://devhunt.org/account/tools/new", domainRating: 56, monthlyVisits: 65000, submissionExperience: "good", pricing: "free" },
-  { name: "Dev Pages", link: "https://www.devpages.io/", submissionLink: "https://www.devpages.io/submit-a-tool", domainRating: 10, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "DEV Resources", link: "https://devresourc.es/", submissionLink: "https://github.com/marcelscruz/dev-resources", domainRating: 31, monthlyVisits: 2700, submissionExperience: "good", pricing: "free" },
-  { name: "DevPost", link: "https://devpost.com/software", submissionLink: "https://devpost.com/software/new", domainRating: 86, monthlyVisits: 1000000, submissionExperience: "good", pricing: "free" },
-  { name: "Digi Pro Tools", link: "https://digiprotoolz.com/", submissionLink: "https://digiprotoolz.com/contact-us/", domainRating: 10, monthlyVisits: 17000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Digital Agency Network", link: "https://digitalagencynetwork.com/", submissionLink: "https://digitalagencynetwork.com/join-free-listing-tools/", domainRating: 76, monthlyVisits: 528000, submissionExperience: "good", pricing: "free" },
-  { name: "Dokey AI", link: "https://dokeyai.com/", submissionLink: "https://dokeyai.com/submit", domainRating: 37, monthlyVisits: 6000, submissionExperience: "good", pricing: "free" },
-  { name: "DoMore", link: "https://domore.ai/", submissionLink: "https://domore.ai/contact-us", domainRating: 5, monthlyVisits: 45000, submissionExperience: "bad", pricing: "paid" },
-  { name: "Easy Save AI", link: "https://easysaveai.com/", submissionLink: "https://easysaveai.com/submit-your-ai-tool/", domainRating: 7, monthlyVisits: 245, submissionExperience: "good", pricing: "paid" },
-  { name: "Easy with AI", link: "https://easywithai.com/", submissionLink: "https://easywithai.com/submit-tool/", domainRating: 33, monthlyVisits: 922000, submissionExperience: "good", pricing: "paid" },
-  { name: "eBool", link: "https://www.ebool.com/", submissionLink: "https://www.ebool.com/submit", domainRating: 62, monthlyVisits: 25000, submissionExperience: "good", pricing: "paid" },
-  { name: "Educator Tools", link: "https://aieducator.tools/", submissionLink: "https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform", domainRating: 25, monthlyVisits: 131000, submissionExperience: "good", pricing: "free" },
-  { name: "Every AI", link: "https://every-ai.com/", submissionLink: "https://every-ai.com/submit-tool/", domainRating: 7, monthlyVisits: 100, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Faind AI", link: "https://faind.ai/", submissionLink: "https://faind.ai/submit-a-tool/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "bad", pricing: "free" },
-  { name: "Favird", link: "https://favird.com/", submissionLink: "https://favird.com/", domainRating: 26, monthlyVisits: 30000, submissionExperience: "good", pricing: "free" },
-  { name: "Fazier", link: "https://fazier.com/", submissionLink: "https://fazier.com/submit", domainRating: 5, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "FinancesOnline", link: "https://financesonline.com/", submissionLink: "https://financesonline.com/add-product/", domainRating: 87, monthlyVisits: 1200000, submissionExperience: "good", pricing: "free" },
-  { name: "Find Cool Tools", link: "https://findcool.tools/", submissionLink: "https://findcool.tools/", domainRating: 10, monthlyVisits: 2300, submissionExperience: "good", pricing: "free" },
-  { name: "Find My AI Tool", link: "https://findmyaitool.com/", submissionLink: "https://findmyaitool.com/submit-tool/", domainRating: 36, monthlyVisits: 69000, submissionExperience: "good", pricing: "paid" },
-  { name: "First 100 users", link: "https://www.first100users.com/", submissionLink: "https://www.first100users.com/submit/", domainRating: 18, monthlyVisits: 200, submissionExperience: "good", pricing: "free" },
-  { name: "Flip Bytes", link: "https://www.flipbytes.com/", submissionLink: "https://www.flipbytes.com/", domainRating: 10, monthlyVisits: 70, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Free AI Apps", link: "https://freeappsai.com/", submissionLink: "https://freeappsai.com/add", domainRating: 1.5, monthlyVisits: 400, submissionExperience: "good", pricing: "free" },
-  { name: "Free AI Tools Directory", link: "https://free-ai-tools-directory.com/", submissionLink: "https://free-ai-tools-directory.com/submit-request/", domainRating: 11, monthlyVisits: 23000, submissionExperience: "good", pricing: "free" },
-  { name: "Future AGI tools", link: "https://www.futureagitools.com/", submissionLink: "https://www.futureagitools.com/submit-a-site", domainRating: 10, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Future Tools", link: "https://www.futuretools.io/", submissionLink: "https://www.futuretools.io/submit-a-tool", domainRating: 44, monthlyVisits: 3000000, submissionExperience: "good", pricing: "free" },
-  { name: "Futurepedia", link: "https://www.futurepedia.io/", submissionLink: "https://www.futurepedia.io/submit-tool", domainRating: 62, monthlyVisits: 5000000, submissionExperience: "good", pricing: "paid" },
-  { name: "Gate2AI", link: "https://www.gate2ai.com/", submissionLink: "https://www.gate2ai.com/submit-tool", domainRating: 27, monthlyVisits: 129000, submissionExperience: "good", pricing: "free" },
-  { name: "Getlatka", link: "https://getlatka.com/", submissionLink: "https://getlatka.com/saas-companies", domainRating: 71, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Good AI Tools", link: "https://goodaitools.com/", submissionLink: "https://goodaitools.com/submit", domainRating: 0, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "GPT Academy", link: "https://www.gptacademy.co/", submissionLink: "https://www.gptacademy.co/submit", domainRating: 14, monthlyVisits: 24000, submissionExperience: "good", pricing: "paid" },
-  { name: "Gpt Forge", link: "https://gptforge.net/", submissionLink: "https://forms.gle/8h1SokDHfcPwkbaZ8", domainRating: 14, monthlyVisits: 41000, submissionExperience: "good", pricing: "free" },
-  { name: "GPT Stack", link: "https://www.gpt-stack.com/", submissionLink: "https://www.gpt-stack.com/add-resource", domainRating: 10, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "GPTE", link: "https://gpte.ai/", submissionLink: "https://gpte.ai/submit-a-tool/", domainRating: 31, monthlyVisits: 1400000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "GPTs Hunter", link: "https://www.gptshunter.com/", submissionLink: "https://www.gptshunter.com/submit-gpt", domainRating: 59, monthlyVisits: 400000, submissionExperience: "good", pricing: "free" },
-  { name: "Hacker News", link: "https://hackernews.com/", submissionLink: "https://hackernews.com/", domainRating: 44, monthlyVisits: 300000, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Igniter", link: "https://www.igniter.ai/", submissionLink: "https://haroonchoudery499974.typeform.com/to/FpdvtLml", domainRating: 7, monthlyVisits: 100, submissionExperience: "bad", pricing: "unknown" },
-  { name: "iLib", link: "https://www.ilib.com/", submissionLink: "https://www.ilib.com/dashboard/submissions/new", domainRating: 16, monthlyVisits: 19000, submissionExperience: "good", pricing: "free" },
-  { name: "Insanely Cool Tools", link: "https://www.insanelycooltools.com/", submissionLink: "https://tally.so/r/31kxN1", domainRating: 35, monthlyVisits: 8400, submissionExperience: "good", pricing: "free" },
-  { name: "Insidr AI", link: "https://www.insidr.ai/", submissionLink: "https://www.insidr.ai/submit-tools/", domainRating: 40, monthlyVisits: 150000, submissionExperience: "good", pricing: "paid" },
-  { name: "Instant", link: "https://instantai.io/", submissionLink: "https://instantai.io/submit-listing/", domainRating: 1.3, monthlyVisits: 35000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Invent List", link: "https://inventlist.com/", submissionLink: "https://inventlist.com/sites/new", domainRating: 2.5, monthlyVisits: 200, submissionExperience: "good", pricing: "free" },
-  { name: "Ismailblogger", link: "https://ismailblogger.com/tools-ai/", submissionLink: "https://ismailblogger.com/submit-tools/", domainRating: 46, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "Joinly", link: "https://www.joinly.xyz/", submissionLink: "https://www.joinly.xyz/submit-startup", domainRating: 25, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "KitPloit", link: "https://www.kitploit.com/", submissionLink: "https://www.kitploit.com/p/submit-tool.html", domainRating: 57, monthlyVisits: 2100000, submissionExperience: "good", pricing: "free" },
-  { name: "Lachief", link: "https://www.lachief.io/", submissionLink: "https://tally.so/r/w4Jb4b", domainRating: 23, monthlyVisits: 266000, submissionExperience: "good", pricing: "free" },
-  { name: "Launched", link: "https://launched.io/", submissionLink: "https://launched.io/SubmitStartup", domainRating: 38, monthlyVisits: 2400, submissionExperience: "good", pricing: "free" },
-  { name: "Launched Site", link: "https://launched.site/", submissionLink: "https://launched.site/submit", domainRating: 45, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "Launching Next", link: "https://www.launchingnext.com/", submissionLink: "https://www.launchingnext.com/submit/", domainRating: 51, monthlyVisits: 13000, submissionExperience: "good", pricing: "free" },
-  { name: "Live Apps", link: "https://liveapps.ai/", submissionLink: "https://liveapps.ai/become-a-partner/", domainRating: 12, monthlyVisits: 500, submissionExperience: "good", pricing: "free" },
-  { name: "Look AI Tools", link: "https://lookaitools.com/", submissionLink: "https://lookaitools.com/submission-service/", domainRating: 6, monthlyVisits: 130, submissionExperience: "good", pricing: "free" },
-  { name: "MadGenius", link: "https://madgenius.co/", submissionLink: "https://madgenius.co/submit", domainRating: 10, monthlyVisits: 5000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "Mars AI directory", link: "https://www.marsx.dev/ai-startups", submissionLink: "https://www.marsx.dev/ai-startups", domainRating: 30, monthlyVisits: 90000, submissionExperience: "good", pricing: "free" },
-  { name: "MicroLaunch", link: "https://microlaunch.net/", submissionLink: "https://tally.so/r/mYaR6N", domainRating: 2, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "MicroStartups", link: "https://www.microstartups.co/", submissionLink: "https://www.microstartups.co/list-your-startup/", domainRating: 3.1, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "Next Gen Tools", link: "https://nextgentools.me/", submissionLink: "https://nextgentools.me/submit-your-tool", domainRating: 27, monthlyVisits: 47000, submissionExperience: "good", pricing: "free" },
-  { name: "NextGenTool", link: "https://nextgentool.io/", submissionLink: "https://nextgentool.io/submit/", domainRating: 12, monthlyVisits: 300, submissionExperience: "good", pricing: "free" },
-  { name: "Nextpedia", link: "https://www.nextpedia.io/", submissionLink: "https://www.nextpedia.io/submit-tool/", domainRating: 11, monthlyVisits: 8000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "One Hub AI", link: "https://www.onehubai.com/", submissionLink: "https://www.onehubai.com/", domainRating: 10, monthlyVisits: 4600, submissionExperience: "good", pricing: "paid" },
-  { name: "Open Future", link: "https://openfuture.ai/", submissionLink: "https://openfuture.ai/submit-tool/", domainRating: 31, monthlyVisits: 496000, submissionExperience: "good", pricing: "free" },
-  { name: "Orbic AI", link: "https://orbic.ai/", submissionLink: "https://orbic.ai/submit/tools/", domainRating: 5, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "Paggu", link: "https://www.paggu.com/", submissionLink: "https://www.paggu.com/submit-your-startup/", domainRating: 35, monthlyVisits: 1000, submissionExperience: "good", pricing: "free" },
-  { name: "PitchWall", link: "https://pitchwall.co/", submissionLink: "https://pitchwall.co/product/submit", domainRating: 64, monthlyVisits: 59000, submissionExperience: "good", pricing: "free" },
-  { name: "Post Make", link: "https://postmake.io/", submissionLink: "https://postmake.io/submit", domainRating: 29, monthlyVisits: 10000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "Product Hunt", link: "https://www.producthunt.com/", submissionLink: "https://www.producthunt.com/posts/new", domainRating: 75, monthlyVisits: 6000000, submissionExperience: "good", pricing: "free" },
-  { name: "Productivity Directory", link: "https://productivity.directory/", submissionLink: "https://productivity.directory/s/submit", domainRating: 27, monthlyVisits: 42000, submissionExperience: "good", pricing: "free" },
-  { name: "PureFuture", link: "https://purefuture.net/", submissionLink: "https://purefuture.net/contact/", domainRating: 13, monthlyVisits: 22000, submissionExperience: "good", pricing: "free" },
-  { name: "Resource fyi", link: "https://resource.fyi/", submissionLink: "https://resource.fyi/account/submit/", domainRating: 39, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Robingood", link: "https://tools.robingood.com/", submissionLink: "https://tools.robingood.com/", domainRating: 33, monthlyVisits: 5600, submissionExperience: "good", pricing: "free" },
-  { name: "Saas AI Tools", link: "https://saasaitools.com/", submissionLink: "https://saasaitools.com/submit/", domainRating: 33, monthlyVisits: 73000, submissionExperience: "good", pricing: "free" },
-  { name: "Saas Po", link: "https://www.saaspo.com/", submissionLink: "https://www.saaspo.com/submit", domainRating: 29, monthlyVisits: 69000, submissionExperience: "good", pricing: "paid" },
-  { name: "Saas Surf", link: "https://saassurf.com/", submissionLink: "https://saassurf.com/submit-a-product#submit", domainRating: 21, monthlyVisits: 31000, submissionExperience: "good", pricing: "free" },
-  { name: "SaasBaba", link: "https://saasbaba.com/", submissionLink: "https://saasbaba.com/add-ai-tool/", domainRating: 10, monthlyVisits: 9000, submissionExperience: "good", pricing: "free" },
-  { name: "SaasHub", link: "https://www.saashub.com/", submissionLink: "https://www.saashub.com/submit", domainRating: 68, monthlyVisits: 1600000, submissionExperience: "good", pricing: "free" },
-  { name: "SaasWorthy", link: "https://www.saasworthy.com/", submissionLink: "https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing", domainRating: 72, monthlyVisits: 172000, submissionExperience: "good", pricing: "free" },
-  { name: "Sick Tools", link: "https://www.sick.tools/", submissionLink: "https://tally.so/r/wvY09d", domainRating: 0, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "Sidebar", link: "https://sidebar.io/", submissionLink: "https://sidebar.io/submit", domainRating: 71, monthlyVisits: 68000, submissionExperience: "good", pricing: "free" },
-  { name: "SideProjectors", link: "https://www.sideprojectors.com/", submissionLink: "https://www.sideprojectors.com/", domainRating: 67, monthlyVisits: 52600, submissionExperience: "good", pricing: "free" },
-  { name: "Sitelike", link: "https://www.sitelike.org/", submissionLink: "https://www.sitelike.org/add-site/", domainRating: 70, monthlyVisits: 1300000, submissionExperience: "good", pricing: "free" },
-  { name: "Smart Tools", link: "https://www.smart-tools.ai/", submissionLink: "https://www.smart-tools.ai/en/submit/", domainRating: 11, monthlyVisits: 123000, submissionExperience: "good", pricing: "free" },
-  { name: "Software Suggest", link: "https://www.softwaresuggest.com/", submissionLink: "https://www.softwaresuggest.com/artificial-intelligence-software", domainRating: 77, monthlyVisits: 561000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Software World", link: "https://softwareworld.co/", submissionLink: "https://softwareworld.co/get-listed/", domainRating: 75, monthlyVisits: 65000, submissionExperience: "good", pricing: "free" },
-  { name: "Source Forge", link: "https://sourceforge.net/", submissionLink: "https://sourceforge.net/create/", domainRating: 92, monthlyVisits: 2500000, submissionExperience: "good", pricing: "free" },
-  { name: "spsFeed", link: "https://spsfeed.com/", submissionLink: "https://spsfeed.com/", domainRating: 0, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "Stackshare", link: "https://stackshare.io/", submissionLink: "https://stackshare.io/submit/", domainRating: 79, monthlyVisits: 1600000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup AI Tools", link: "https://www.startups.fyi/", submissionLink: "https://tally.so/r/3lOGLk", domainRating: 22, monthlyVisits: 13000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Base", link: "https://startupbase.io/", submissionLink: "https://startupbase.io/submissions/start", domainRating: 50, monthlyVisits: 3000, submissionExperience: "good", pricing: "paid" },
-  { name: "Startup Buffer", link: "https://startupbuffer.com/", submissionLink: "https://startupbuffer.com/site/submit", domainRating: 36, monthlyVisits: 16000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Collections", link: "https://startupcollections.com/", submissionLink: "https://startupcollections.com/submit-product/", domainRating: 22, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Pitch", link: "https://thestartuppitch.com/", submissionLink: "https://thestartuppitch.com/post-a-pitch/", domainRating: 40, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "Startup Ranking", link: "https://www.startupranking.com/", submissionLink: "https://www.startupranking.com/startup/create/url-validation", domainRating: 67, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Roulette", link: "https://startuproulette.com/", submissionLink: "https://startuproulette.com/promote-my-startup/", domainRating: 21, monthlyVisits: 0, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Stage", link: "https://startupstage.app/", submissionLink: "https://startupstage.app/startups/new", domainRating: 25, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Stash", link: "https://startupstash.com/", submissionLink: "https://startupstash.com/add-listing/", domainRating: 65, monthlyVisits: 370000, submissionExperience: "good", pricing: "paid" },
-  { name: "Startup88", link: "https://startup88.com/", submissionLink: "https://startup88.typeform.com/to/CRjWqM", domainRating: 25, monthlyVisits: 300, submissionExperience: "good", pricing: "free" },
-  { name: "Startups.fyi", link: "https://www.startups.fyi/", submissionLink: "https://tally.so/r/3lOGLk", domainRating: 25, monthlyVisits: 13000, submissionExperience: "good", pricing: "free" },
-  { name: "Super Tools", link: "https://supertools.therundown.ai/", submissionLink: "https://supertools.therundown.ai/submit", domainRating: 20, monthlyVisits: 380000, submissionExperience: "good", pricing: "free" },
-  { name: "Synoptica", link: "https://synoptica.com/", submissionLink: "https://synoptica.com/submit-an-ai-tool/", domainRating: 17, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Tekpon", link: "https://tekpon.com/get-listed/", submissionLink: "https://tekpon.com/get-listed/", domainRating: 54, monthlyVisits: 134000, submissionExperience: "good", pricing: "free" },
-  { name: "That AI Collection", link: "https://github.com/ai-collection/ai-collection", submissionLink: "https://www.thataicollection.com/submit/", domainRating: 32, monthlyVisits: 34000, submissionExperience: "bad", pricing: "free" },
-  { name: "The ai Generation", link: "https://www.theaigeneration.com/", submissionLink: "https://www.theaigeneration.com/add/", domainRating: 11, monthlyVisits: 77000, submissionExperience: "good", pricing: "free" },
-  { name: "The AI Warehouse", link: "https://www.thewarehouse.ai/", submissionLink: "https://inside.thewarehouse.ai/submissions", domainRating: 11, monthlyVisits: 6000, submissionExperience: "good", pricing: "free" },
-  { name: "The Hack Stack", link: "https://thehackstack.com/", submissionLink: "https://thehackstack.com/register", domainRating: 10, monthlyVisits: 5000, submissionExperience: "bad", pricing: "free" },
-  { name: "Tiny Startups", link: "https://www.tinystartups.co/", submissionLink: "https://tally.so/r/wMzP8X", domainRating: 4.4, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "TipSeason", link: "https://tipseason.com/ai-tools", submissionLink: "https://tipseason.com/ai-tools/submit", domainRating: 27, monthlyVisits: 30000, submissionExperience: "good", pricing: "free" },
-  { name: "Tool AI", link: "https://toolai.io/", submissionLink: "https://toolai.io/en/submit", domainRating: 7, monthlyVisits: 75000, submissionExperience: "good", pricing: "free" },
-  { name: "Tool Directory", link: "https://tooldirectory.ai/", submissionLink: "https://tooldirectory.ai/submit-tool", domainRating: 50, monthlyVisits: 4000, submissionExperience: "good", pricing: "free" },
-  { name: "Tool Pilot", link: "https://www.toolpilot.ai/", submissionLink: "https://www.toolpilot.ai/pages/submit-your-ai-tool", domainRating: 51, monthlyVisits: 660000, submissionExperience: "good", pricing: "free" },
-  { name: "Toolify.ai", link: "https://www.toolify.ai/", submissionLink: "https://www.toolify.ai/login?from=%2Fsubmit", domainRating: 13, monthlyVisits: 340000, submissionExperience: "unknown", pricing: "paid" },
-  { name: "Toolio AI", link: "https://toolio.ai/", submissionLink: "https://toolio.ai/submit-a-tool", domainRating: 34, monthlyVisits: 23000, submissionExperience: "good", pricing: "paid" },
-  { name: "Tools AI", link: "https://toolsai.net/", submissionLink: "https://toolsai.net/add-listing/", domainRating: 19, monthlyVisits: 60000, submissionExperience: "bad", pricing: "unknown" },
-  { name: "Tools AI Online", link: "https://www.tools-ai.online/", submissionLink: "https://www.tools-ai.online/tool-submit", domainRating: 11, monthlyVisits: 67000, submissionExperience: "good", pricing: "free" },
-  { name: "Tools Directory", link: "https://aitoolsdirectory.com/", submissionLink: "https://aitoolsdirectory.com/submit-tool", domainRating: 10, monthlyVisits: 100, submissionExperience: "good", pricing: "free" },
-  { name: "Tools Nocode", link: "https://www.toolsnocode.com/ai", submissionLink: "https://www.toolsnocode.com/ai#form1", domainRating: 10, monthlyVisits: 5000, submissionExperience: "unknown", pricing: "unknown" },
-  { name: "Tools.so", link: "https://tools.so/", submissionLink: "https://tools.so/", domainRating: 15, monthlyVisits: 1000, submissionExperience: "good", pricing: "free" },
-  { name: "ToolScout", link: "https://toolscout.ai/", submissionLink: "https://toolscout.ai/submit", domainRating: 10, monthlyVisits: 23000, submissionExperience: "good", pricing: "free" },
-  { name: "ToolsFine", link: "https://toolsfine.com/", submissionLink: "https://tally.so/r/3qVzOG", domainRating: 38, monthlyVisits: 34000, submissionExperience: "good", pricing: "free" },
-  { name: "Toolspedia", link: "https://www.toolspedia.io/", submissionLink: "https://www.toolspedia.io/submit-tool/", domainRating: 21, monthlyVisits: 26000, submissionExperience: "good", pricing: "paid" },
-  { name: "Top Apps AI", link: "https://topapps.ai/", submissionLink: "https://topapps.ai/submit", domainRating: 32, monthlyVisits: 890000, submissionExperience: "good", pricing: "free" },
-  { name: "Under1000MRR.tools", link: "https://under1000mrr.tools/", submissionLink: "https://under1000mrr.tools/submit-product", domainRating: 0, monthlyVisits: 500, submissionExperience: "good", pricing: "paid" },
-  { name: "Unloc.tools", link: "https://www.unloc.tools/", submissionLink: "https://www.unloc.tools/submit-tool", domainRating: 20, monthlyVisits: 1000, submissionExperience: "good", pricing: "free" },
-  { name: "Victrays", link: "https://victrays.com/", submissionLink: "https://victrays.com/submit-tool/", domainRating: 10, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "Warehouse AI", link: "https://www.thewarehouse.ai/", submissionLink: "https://www.thewarehouse.ai/product-submission", domainRating: 10, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Webwiki", link: "https://www.webwiki.com/", submissionLink: "https://www.webwiki.com/info/add-website.html", domainRating: 77, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "What the AI", link: "https://whattheai.tech/", submissionLink: "https://whattheai.tech/submit-a-tool/", domainRating: 28, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "Whatsthebigdata", link: "https://whatsthebigdata.com/", submissionLink: "https://whatsthebigdata.com/submit-new-ai-tool/", domainRating: 60, monthlyVisits: 2700000, submissionExperience: "good", pricing: "free" },
-  { name: "Woi AI", link: "https://woy.ai/", submissionLink: "https://woy.ai/submit", domainRating: 64, monthlyVisits: 43400, submissionExperience: "good", pricing: "free" },
-  { name: "Your Story", link: "https://yourstory.com/", submissionLink: "https://eu.frms.link/g4juley/", domainRating: 86, monthlyVisits: 8758000, submissionExperience: "good", pricing: "free" },
-  // New directories from GitHub best-of-ai/ai-directories
-  { name: "AI Tools Submit", link: "https://submitaitools.org/", submissionLink: "https://submitaitools.org/submit-your-ai-tool/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AIDir Wiki", link: "https://aidir.wiki/", submissionLink: "https://aidir.wiki/", domainRating: 20, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Directory Wiki", link: "https://aidirectory.wiki/", submissionLink: "https://aidirectory.wiki/", domainRating: 18, monthlyVisits: 6000, submissionExperience: "good", pricing: "free" },
-  { name: "AiDirs Best", link: "https://aidirs.best/", submissionLink: "https://aidirs.best/", domainRating: 12, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "AI For Developers", link: "https://aifordevelopers.org/", submissionLink: "https://aifordevelopers.org/", domainRating: 25, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Ainave", link: "https://www.ainave.com/", submissionLink: "https://www.ainave.com/", domainRating: 30, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agent Store", link: "https://aiagentstore.ai/", submissionLink: "https://aiagentstore.ai/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agents Live", link: "https://aiagentslive.com/", submissionLink: "https://aiagentslive.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Trillion Agent", link: "https://trillionagent.com/", submissionLink: "https://trillionagent.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Hubs", link: "https://aihubs.ai/", submissionLink: "https://aihubs.ai/", domainRating: 22, monthlyVisits: 12000, submissionExperience: "good", pricing: "free" },
-  { name: "The AI Library", link: "https://www.theailibrary.co/", submissionLink: "https://www.theailibrary.co/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "AiMatchPro", link: "https://aimatch.pro/", submissionLink: "https://aimatch.pro/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Pedia Hub", link: "https://aipediahub.com/", submissionLink: "https://aipediahub.com/", domainRating: 30, monthlyVisits: 40000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Pulse", link: "https://www.aipulse.fyi/", submissionLink: "https://www.aipulse.fyi/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Resource Pro", link: "https://airesource.pro/", submissionLink: "https://airesource.pro/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Respo", link: "https://airespo.com/", submissionLink: "https://airespo.com/", domainRating: 12, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "AEO Tools", link: "https://www.aeotools.space/", submissionLink: "https://www.aeotools.space/", domainRating: 10, monthlyVisits: 2000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Sites Net", link: "https://ai-sites.net/", submissionLink: "https://ai-sites.net/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Corner", link: "https://aitoolscorner.com/", submissionLink: "https://aitoolscorner.com/", domainRating: 18, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Super Smart", link: "https://www.aisupersmart.com/", submissionLink: "https://www.aisupersmart.com/ai-tools-directory/", domainRating: 20, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "AI-Tools Directory", link: "https://ai-tools.directory/", submissionLink: "https://ai-tools.directory/", domainRating: 22, monthlyVisits: 18000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools List", link: "https://aitoolslist.io/", submissionLink: "https://aitoolslist.io/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Marketer", link: "https://aitoolsmarketer.com/", submissionLink: "https://aitoolsmarketer.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Top Tools", link: "https://aitoptools.com/", submissionLink: "https://aitoptools.com/", domainRating: 30, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Magazine", link: "https://aitoolsmagazine.com/", submissionLink: "https://aitoolsmagazine.com/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "All AI Tools Tech", link: "https://allaitools.tech/", submissionLink: "https://allaitools.tech/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "aitools.inc", link: "https://aitools.inc/", submissionLink: "https://aitools.inc/", domainRating: 20, monthlyVisits: 12000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tool Trek", link: "https://aitooltrek.com/", submissionLink: "https://aitooltrek.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "All The AI Tools", link: "https://alltheaitools.com/", submissionLink: "https://alltheaitools.com/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Explore", link: "https://aiex.me/", submissionLink: "https://aiex.me/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools For Me", link: "https://aitoolsforme.com/", submissionLink: "https://aitoolsforme.com/", domainRating: 12, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tool List Org", link: "https://www.aitoollist.org/", submissionLink: "https://www.aitoollist.org/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Journey", link: "https://aijourney.so/", submissionLink: "https://aijourney.so/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "AiToolz Net", link: "https://aitoolz.net/", submissionLink: "https://aitoolz.net/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Toolz Dir", link: "https://www.aitoolzdir.com/", submissionLink: "https://www.aitoolzdir.com/", domainRating: 27, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Parabellum", link: "https://aiparabellum.com/", submissionLink: "https://aiparabellum.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agents Base", link: "https://aiagentsbase.com/", submissionLink: "https://aiagentsbase.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agents List", link: "https://aiagentslist.com/", submissionLink: "https://aiagentslist.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agents Directory", link: "https://aiagentsdirectory.com/", submissionLink: "https://aiagentsdirectory.com/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Agents Verse", link: "https://aiagentsverse.com/", submissionLink: "https://aiagentsverse.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Add AI Directory", link: "https://addaidirectory.com/", submissionLink: "https://addaidirectory.com/", domainRating: 12, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "Agent Hunter", link: "https://www.agenthunter.io/", submissionLink: "https://www.agenthunter.io/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Aixyz", link: "https://www.aixyz.co/", submissionLink: "https://www.aixyz.co/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "AI Tools Saver", link: "https://www.aitoolsaver.com/", submissionLink: "https://www.aitoolsaver.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "paid" },
-  { name: "AI Chief", link: "https://aichief.com/", submissionLink: "https://aichief.com/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Ask AI For It", link: "https://askaiforit.com/", submissionLink: "https://askaiforit.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Best of AI", link: "https://bestofai.io/", submissionLink: "https://bestofai.io/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Based Tools", link: "https://www.basedtools.ai/", submissionLink: "https://www.basedtools.ai/", domainRating: 20, monthlyVisits: 12000, submissionExperience: "good", pricing: "free" },
-  { name: "Best AI Tools Org", link: "https://www.best-ai-tools.org/", submissionLink: "https://www.best-ai-tools.org/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Best of Web", link: "https://www.bestofweb.site/", submissionLink: "https://www.bestofweb.site/", domainRating: 30, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "Beyond AI Tools", link: "https://www.beyondaitools.com/", submissionLink: "https://www.beyondaitools.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Byblos AI", link: "https://byblosai.com/", submissionLink: "https://byblosai.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "BuildVoyage", link: "https://buildvoyage.com/", submissionLink: "https://buildvoyage.com/", domainRating: 12, monthlyVisits: 3000, submissionExperience: "good", pricing: "free" },
-  { name: "ClaudePro Directory", link: "https://claudepro.directory/", submissionLink: "https://claudepro.directory/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "Cloudbooklet AI", link: "https://www.cloudbooklet.net/", submissionLink: "https://www.cloudbooklet.net/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "CogList AI", link: "https://coglist.com/", submissionLink: "https://coglist.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "DataLook", link: "https://datalook.io/", submissionLink: "https://datalook.io/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Dynamite AI", link: "https://www.dynamite-ai.com/", submissionLink: "https://www.dynamite-ai.com/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Dessign AI", link: "https://dessign.net/", submissionLink: "https://dessign.net/", domainRating: 40, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "Desifounder", link: "https://desifounder.com/", submissionLink: "https://desifounder.com/spotlight", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Dofollow Tools", link: "https://dofollow.tools/", submissionLink: "https://dofollow.tools/", domainRating: 30, monthlyVisits: 25000, submissionExperience: "good", pricing: "free" },
-  { name: "EliteAI Tools", link: "https://eliteai.tools/", submissionLink: "https://eliteai.tools/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "EveryDev AI", link: "https://www.everydev.ai/", submissionLink: "https://www.everydev.ai/", domainRating: 20, monthlyVisits: 12000, submissionExperience: "good", pricing: "free" },
-  { name: "Evolmagazine", link: "https://www.evolmagazine.com/", submissionLink: "https://www.evolmagazine.com/en/tools/", domainRating: 35, monthlyVisits: 40000, submissionExperience: "good", pricing: "free" },
-  { name: "Expify AI", link: "https://www.expify.ai/", submissionLink: "https://www.expify.ai/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Find An AI Tools", link: "https://findanaitools.com/", submissionLink: "https://findanaitools.com/", domainRating: 30, monthlyVisits: 40000, submissionExperience: "good", pricing: "free" },
-  { name: "FindYourAgent", link: "https://findyouragent.ai/", submissionLink: "https://findyouragent.ai/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Foundr AI", link: "https://foundr.ai/", submissionLink: "https://foundr.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Free AI Tool", link: "https://freeaitool.ai/", submissionLink: "https://freeaitool.ai/", domainRating: 20, monthlyVisits: 12000, submissionExperience: "good", pricing: "free" },
-  { name: "Futurepedia Wiki", link: "https://futurepedia.wiki/", submissionLink: "https://futurepedia.wiki/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "FlowTools", link: "https://www.flowtools.co/", submissionLink: "https://www.flowtools.co/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "FastLaunch", link: "https://fastlaunch.io/", submissionLink: "https://fastlaunch.io/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Grabon AI", link: "https://www.grabon.in/indulge/ai-tools/", submissionLink: "https://www.grabon.in/indulge/ai-tools/", domainRating: 75, monthlyVisits: 2000000, submissionExperience: "good", pricing: "free" },
-  { name: "God of Prompt", link: "https://godofprompt.ai/", submissionLink: "https://godofprompt.ai/best-ai-tools/", domainRating: 35, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "GroupifyAI", link: "https://groupify.ai/", submissionLink: "https://groupify.ai/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Havnai", link: "https://havnai.com/", submissionLink: "https://havnai.com/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "HeyAIworld", link: "https://heyaiworld.com/", submissionLink: "https://heyaiworld.com/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "IA sur mesure", link: "https://iasurmesure.com/", submissionLink: "https://iasurmesure.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "LineZine AI", link: "https://linezine.com/ai-tool-directory", submissionLink: "https://linezine.com/ai-tool-directory", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "ListYourTool", link: "https://www.listyourtool.com/", submissionLink: "https://www.listyourtool.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Launch Vault", link: "https://www.launchvault.dev/", submissionLink: "https://www.launchvault.dev/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Makerlist", link: "https://makerlist.io/", submissionLink: "https://makerlist.io/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Marketing Tools List", link: "https://marketingtoolslist.com/", submissionLink: "https://marketingtoolslist.com/", domainRating: 30, monthlyVisits: 30000, submissionExperience: "good", pricing: "free" },
-  { name: "NavTools AI", link: "https://navtools.ai/", submissionLink: "https://navtools.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "NeonRev", link: "https://www.neonrev.com/", submissionLink: "https://www.neonrev.com/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "OpenHunts", link: "https://openhunts.com/", submissionLink: "https://openhunts.com/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "OpenSaas Directory", link: "https://opensaas.directory/", submissionLink: "https://opensaas.directory/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "OpenTools", link: "https://opentools.ai/", submissionLink: "https://opentools.ai/", domainRating: 35, monthlyVisits: 100000, submissionExperience: "good", pricing: "free" },
-  { name: "PoweredbyAI", link: "https://poweredbyai.app/", submissionLink: "https://poweredbyai.app/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "Startuplist In", link: "https://startuplist.in/", submissionLink: "https://startuplist.in/", domainRating: 35, monthlyVisits: 50000, submissionExperience: "good", pricing: "free" },
-  { name: "Stratup AI", link: "https://stratup.ai/", submissionLink: "https://stratup.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Startup Tools List", link: "https://startuptoolslist.com/", submissionLink: "https://startuptoolslist.com/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Spiff Store", link: "https://spiff.store/", submissionLink: "https://spiff.store/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Sales Tools AI", link: "https://salestoolsai.top/", submissionLink: "https://salestoolsai.top/", domainRating: 15, monthlyVisits: 5000, submissionExperience: "good", pricing: "free" },
-  { name: "Stackviv", link: "https://stackviv.ai/", submissionLink: "https://stackviv.ai/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "SearchAI Directory", link: "https://searchaidirectory.com/", submissionLink: "https://searchaidirectory.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-  { name: "Selljam AI", link: "https://selljam.ai/", submissionLink: "https://selljam.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Show Me Best AI", link: "https://showmebest.ai/", submissionLink: "https://showmebest.ai/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "Submit AI Tools Org", link: "https://submitaitools.org/", submissionLink: "https://submitaitools.org/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "There's An AI", link: "https://theresanai.com/", submissionLink: "https://theresanai.com/", domainRating: 55, monthlyVisits: 500000, submissionExperience: "good", pricing: "free" },
-  { name: "Thank John", link: "https://www.thankjohn.com/", submissionLink: "https://www.thankjohn.com/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "ToolFinder Wiki", link: "https://toolfinder.wiki/", submissionLink: "https://toolfinder.wiki/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Toolwave", link: "https://www.toolwave.io/", submissionLink: "https://www.toolwave.io/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "TopAI Tools", link: "https://topai.tools/", submissionLink: "https://topai.tools/", domainRating: 40, monthlyVisits: 200000, submissionExperience: "good", pricing: "free" },
-  { name: "ToolPasta", link: "https://toolpasta.com/", submissionLink: "https://toolpasta.com/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Top Tools AI", link: "https://www.toptools.ai/", submissionLink: "https://www.toptools.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Tools Hub AI", link: "https://toolshubai.com/", submissionLink: "https://toolshubai.com/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "ThatsMyAI", link: "https://thatsmy.ai/", submissionLink: "https://thatsmy.ai/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "The Next AI Tool", link: "https://thenextaitool.com/", submissionLink: "https://thenextaitool.com/", domainRating: 35, monthlyVisits: 100000, submissionExperience: "good", pricing: "free" },
-  { name: "TrustList AI", link: "https://www.trustlist.ai/", submissionLink: "https://www.trustlist.ai/", domainRating: 20, monthlyVisits: 10000, submissionExperience: "good", pricing: "free" },
-  { name: "TrustedBy AI", link: "https://www.trustedby.ai/", submissionLink: "https://www.trustedby.ai/", domainRating: 25, monthlyVisits: 20000, submissionExperience: "good", pricing: "free" },
-  { name: "Toolkitly", link: "https://www.toolkitly.com/", submissionLink: "https://www.toolkitly.com/", domainRating: 22, monthlyVisits: 15000, submissionExperience: "good", pricing: "free" },
-  { name: "Yet Another AI Tool Directory", link: "https://yaatd.com/", submissionLink: "https://yaatd.com/", domainRating: 18, monthlyVisits: 8000, submissionExperience: "good", pricing: "free" },
-]
+## 320 AI directories
+
+| Directory | Link | Submit | DR | Visits/mo | Submission | Pricing |
+|---|---:|---:|---:|---:|---|---|
+| 100 AI Apps | https://100apps.org/ | https://100apps.org/ | 0.6 | 1000 | good | paid |
+| 1000 Tools | https://1000.tools/ | https://1000.tools/my/tools/create | 23 | 7500 | good | paid |
+| 1000gpt.shop | https://1000gpt.shop/ | https://buy.stripe.com/dR6eVi1lRgj9bsY4gg | 1 | 1000 | good | paid |
+| 1payment Tools | https://1payment.tools/ | https://1payment.tools/cabinet/apps/new | 0.8 | 1000 | good | paid |
+| Advanced Innovation | https://www.advanced-innovation.io/ | https://www.advanced-innovation.io/ki-tool-einreichen | 20 | 25000 | good | free |
+| Afford Hunt | https://affordhunt.com/ | https://t.co/zZB1Yxgf8s | 56 | 80000 | good | free |
+| AI Center | https://aicenter.ai/ | https://aicenter.ai/products/submit | 10 | 5000 | good | paid |
+| AI combined | https://aicombined.com/ | https://aicombined.com/add-listing/ | 10 | 5000 | good | free |
+| AI Depot | https://aidepot.co/ | https://t.co/d7KH891ypL | 11 | 30000 | unknown | paid |
+| AI Dir | https://www.aidir.cc/ | https://www.aidir.cc/submit/ | 10 | 100 | bad | unknown |
+| AI Directory | https://www.aidirectory.org/ | https://www.aidirectory.org/user-submit/ | 10 | 5700 | bad | unknown |
+| AI Dude Info | https://www.aiwizard.ai/ | https://aidude.info/submit-your-tool | 13 | 84700 | good | paid |
+| AI Explorer | https://www.aiexplorer.app/ | https://www.aiexplorer.app/ | 10 | 24000 | bad | unknown |
+| AI Finder | https://ai-finder.net/ | https://ai-finder.net/add | 54 | 263000 | good | free |
+| AI Gadget | https://aigadget.io/ | https://aigadget.io/ | 12 | 23000 | bad | unknown |
+| AI Hub | https://www.aihub.fyi/ | https://www.aihub.fyi/form | 22 | 1300 | good | free |
+| AI Hunter | https://ai-hunter.io/ | https://ai-hunter.io/submit-ai-tool/ | 10 | 5000 | good | free |
+| AI Infinity | https://aiinfinity-meetpatel.notion.site/ | https://forms.gle/Ze6pdWzmweCfKWnLA | 91 | 2000 | good | free |
+| AI Lib | https://ailib.ru/ | https://ailib.ru/ | 23 | 119000 | good | free |
+| AI Library | https://library.phygital.plus/ | https://library.phygital.plus/tool-submission | 17 | 25000 | good | free |
+| AI Marketing | https://aimarketing.directory/ | https://aimarketing.directory/submit | 12 | 9600 | good | free |
+| AI scout | https://aiscout.net/ | https://aiscout.net/submit-listing/details/ | 43 | 5000 | good | paid |
+| AI Search | https://ai-search.io/ | https://ai-search.io/submit | 10 | 4000 | good | free |
+| AI Spree | https://aispree.com/ | https://aispree.com/ | 5 | 700 | bad | unknown |
+| AI Startups | https://www.aistartups.net/ | https://www.aistartups.net/submit/ | 12 | 37000 | bad | unknown |
+| AI Stash | https://www.aistash.co/ | https://www.aistash.co/submit-tool | 20 | 15000 | good | paid |
+| AI To Grow | https://aitogrow.com/ | https://aitogrow.com/#send-your-tool/ | 15 | 5000 | good | free |
+| AI Tool Board | https://aitoolboard.com/ | https://aitoolboard.com/submit-ai-tool | 3 | 7000 | unknown | paid |
+| AI Tool guru | https://aitoolguru.com/ | https://aitoolguru.com/submit-ai-tool | 31 | 27000 | good | free |
+| AI tool hunt | https://www.aitoolhunt.com/ | https://www.aitoolhunt.com/addTool | 22 | 80000 | good | paid |
+| AI Tool NET | https://www.aitoolnet.com/ | https://www.aitoolnet.com/ | 35 | 160000 | good | free |
+| AI Tool Tracker | https://aitooltracker.com/ | https://aitooltracker.com/dashboard/#submit | 15 | 30000 | bad | unknown |
+| AI Tools Arena | https://aitoolsarena.com/ | https://aitoolsarena.com/ | 8 | 700 | bad | unknown |
+| AI Tools Directory | https://www.aitools.directory/ | https://www.aitools.directory/ | 5 | 10000 | bad | unknown |
+| AI tools directory COM | https://aitoolsdirectory.com/ | https://aitoolsdirectory.com/submit-tool | 10 | 25000 | good | free |
+| AI Tools Directory HCILAB | https://www.hcilab.org/ai-tools-directory/ | https://www.hcilab.org/ai-tools-directory/ | 20 | 30000 | bad | unknown |
+| AI tools for Marketing | https://airadar.getinference.com/ | https://airadar.getinference.com/ | 14 | 50000 | good | free |
+| AI Tools Guide | https://aitoolsguide.com/ | https://aitoolsguide.com/contact/ | 10 | 5000 | bad | unknown |
+| AI Tools Hunter | https://ai-hunter.io/ | https://ai-hunter.io/submit-ai-tool/ | 10 | 25000 | good | free |
+| AI Tools Neil Patel | https://aitools.neilpatel.com/ | https://aitools.neilpatel.com/submit/ | 91 | 6000 | good | free |
+| AI Tools Up | https://aitoolsup.com/ | https://aitoolsup.com/submit-tool/ | 2 | 700 | good | free |
+| AI Tools Wiki | https://aitoolswiki.com/ | https://aitoolswiki.com/contact-us/ | 10 | 9000 | bad | unknown |
+| AI Top Picks | https://www.aitoppicks.com/ | https://www.aitoppicks.com/ | 10 | 5800 | unknown | paid |
+| AI trendz | https://aitrendz.xyz/ | https://aitrendz.xyz/submit-ai-link/ | 8 | 90 | unknown | paid |
+| AI Valley | https://aivalley.ai/ | https://aivalley.ai/submit-tool/ | 25 | 230000 | good | free |
+| AI Wizard | https://www.aiwizard.ai/ | https://www.aiwizard.ai/submit | 10 | 5000 | unknown | paid |
+| AIToolKit | https://www.aitoolkit.org/ | https://www.aitoolkit.org/submit/ | 25 | 71000 | good | free |
+| AIX Collection | https://aixcollection.com/ | https://aixcollection.com/submit | 10 | 100 | good | free |
+| Aixploria | https://www.aixploria.com/en/ | https://www.aixploria.com/en/add-ai/ | 17 | 584000 | good | free |
+| All things AI | https://allthingsai.com/ | https://allthingsai.com/submit | 27 | 500000 | bad | unknown |
+| All Top Startups | https://alltopstartups.com/ | https://alltopstartups.com/submit-startup/ | 64 | 70000 | unknown | paid |
+| AllStartups Info | https://www.allstartups.info/ | https://www.allstartups.info/Startups/Submit | 33 | 17000 | good | free |
+| Altern AI | https://altern.ai/ | https://altern.ai/dash/submit | 25 | 180000 | good | free |
+| Alternative | https://alternative.me/ | https://alternative.me/how-to/submit-software/ | 77 | 2000000 | bad | free |
+| Alternatives.co | https://alternatives.co/software/ai-tools/ | https://alternatives.co/software/ai-tools/ | 12 | 19000 | bad | unknown |
+| AlternativeTo | https://alternativeto.net/ | https://alternativeto.net/manage-item/ | 80 | 1300000 | good | free |
+| AlterOpen | https://alteropen.com/ | https://github.com/alteropen-com/alteropen/tree/main/content/app | 0 | 0 | good | free |
+| Amaete AI | https://www.amaete.ai/ | https://www.amaete.ai/ | 11 | 4000 | bad | unknown |
+| Ankore | https://ankore.io/ | https://ankore.io/submit/ | 0.4 | 1500 | good | paid |
+| Anyfp | https://anyfp.com/ | https://anyfp.com/contact/ | 33 | 1000 | good | paid |
+| Apps and Websites | https://appsandwebsites.com/ | https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html | 21 | 5000 | good | free |
+| Appscriber | https://appscribed.com/ | https://appscribed.com/product-list/ | 34 | 42100 | good | free |
+| AppsHunter | https://appsthunder.com/ | https://appsthunder.com/submit-your-app/ | 29 | 5000 | good | free |
+| AppSumo | https://appsumo.com/ | https://appsumo.com/ | 82 | 3300000 | unknown | unknown |
+| Ben's Bites News | https://news.bensbites.co/ | https://news.bensbites.com/submit | 39 | 13000 | good | free |
+| Best AI To | https://bestaito.com/ | https://bestaito.com/submit-a-ai-tool/ | 12 | 162000 | good | paid |
+| Best AI Tools | https://www.startupaitools.com/ | https://www.startupaitools.com/ | 10 | 900 | good | free |
+| Beta List | https://betalist.com/ | https://betalist.com/submissions/new | 70 | 180000 | bad | free |
+| BizRaw | https://bizraw.com/ | https://bizraw.com/whats-new/posts/98/ | 73 | 0 | good | free |
+| BroUseAI | https://www.brouseai.com/ | https://www.brouseai.com/ | 35 | 31000 | good | free |
+| Buffer Apps | https://www.bufferapps.com/ | https://www.bufferapps.com/beta-listing/new | 11 | 5000 | good | free |
+| Chat AI Apps | https://www.chataiapps.com/ | https://www.chataiapps.com/ | 10 | 5000 | unknown | unknown |
+| ChatGate AI | https://explore.chatgate.ai/ | https://explore.chatgate.ai/submit-your-tool/ | 18 | 5000 | good | free |
+| ChatGPT demo | https://chatgptdemo.com/ | https://chatgptdemo.com/submit-a-product/ | 30 | 400000 | good | free |
+| Crazy About Startups | https://crazyaboutstartups.com/ | https://crazyaboutstartups.com/share-your-startup-2 | 33 | 5000 | bad | unknown |
+| Creator Supply | https://creator.supply/ | https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/ | 21 | 1000 | good | free |
+| Crozdesk | https://crozdesk.com/ | https://vendor.softwareselect.com/ | 74 | 200000 | unknown | unknown |
+| Crunchbase | https://www.crunchbase.com/ | https://www.crunchbase.com/add-new/ | 80 | 10000000 | good | free |
+| Daily tech AI | https://www.dailytech.ai/ | https://www.dailytech.ai/submit-service | 11 | 23000 | good | free |
+| Dang AI | https://dang.ai/ | https://dang.ai/ | 45 | 27700 | good | paid |
+| Dev Hunt | https://devhunt.org/ | https://devhunt.org/account/tools/new | 56 | 65000 | good | free |
+| Dev Pages | https://www.devpages.io/ | https://www.devpages.io/submit-a-tool | 10 | 50000 | good | free |
+| DEV Resources | https://devresourc.es/ | https://github.com/marcelscruz/dev-resources | 31 | 2700 | good | free |
+| DevPost | https://devpost.com/software | https://devpost.com/software/new | 86 | 1000000 | good | free |
+| Digi Pro Tools | https://digiprotoolz.com/ | https://digiprotoolz.com/contact-us/ | 10 | 17000 | bad | unknown |
+| Digital Agency Network | https://digitalagencynetwork.com/ | https://digitalagencynetwork.com/join-free-listing-tools/ | 76 | 528000 | good | free |
+| Dokey AI | https://dokeyai.com/ | https://dokeyai.com/submit | 37 | 6000 | good | free |
+| DoMore | https://domore.ai/ | https://domore.ai/contact-us | 5 | 45000 | bad | paid |
+| Easy Save AI | https://easysaveai.com/ | https://easysaveai.com/submit-your-ai-tool/ | 7 | 245 | good | paid |
+| Easy with AI | https://easywithai.com/ | https://easywithai.com/submit-tool/ | 33 | 922000 | good | paid |
+| eBool | https://www.ebool.com/ | https://www.ebool.com/submit | 62 | 25000 | good | paid |
+| Educator Tools | https://aieducator.tools/ | https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform | 25 | 131000 | good | free |
+| Every AI | https://every-ai.com/ | https://every-ai.com/submit-tool/ | 7 | 100 | unknown | unknown |
+| Faind AI | https://faind.ai/ | https://faind.ai/submit-a-tool/ | 10 | 5000 | bad | free |
+| Favird | https://favird.com/ | https://favird.com/ | 26 | 30000 | good | free |
+| Fazier | https://fazier.com/ | https://fazier.com/submit | 5 | 5000 | good | free |
+| FinancesOnline | https://financesonline.com/ | https://financesonline.com/add-product/ | 87 | 1200000 | good | free |
+| Find Cool Tools | https://findcool.tools/ | https://findcool.tools/ | 10 | 2300 | good | free |
+| Find My AI Tool | https://findmyaitool.com/ | https://findmyaitool.com/submit-tool/ | 36 | 69000 | good | paid |
+| First 100 users | https://www.first100users.com/ | https://www.first100users.com/submit/ | 18 | 200 | good | free |
+| Flip Bytes | https://www.flipbytes.com/ | https://www.flipbytes.com/ | 10 | 70 | unknown | unknown |
+| Free AI Apps | https://freeappsai.com/ | https://freeappsai.com/add | 1.5 | 400 | good | free |
+| Free AI Tools Directory | https://free-ai-tools-directory.com/ | https://free-ai-tools-directory.com/submit-request/ | 11 | 23000 | good | free |
+| Future AGI tools | https://www.futureagitools.com/ | https://www.futureagitools.com/submit-a-site | 10 | 5000 | good | free |
+| Future Tools | https://www.futuretools.io/ | https://www.futuretools.io/submit-a-tool | 44 | 3000000 | good | free |
+| Futurepedia | https://www.futurepedia.io/ | https://www.futurepedia.io/submit-tool | 62 | 5000000 | good | paid |
+| Gate2AI | https://www.gate2ai.com/ | https://www.gate2ai.com/submit-tool | 27 | 129000 | good | free |
+| Getlatka | https://getlatka.com/ | https://getlatka.com/saas-companies | 71 | 20000 | good | free |
+| Good AI Tools | https://goodaitools.com/ | https://goodaitools.com/submit | 0 | 0 | good | free |
+| GPT Academy | https://www.gptacademy.co/ | https://www.gptacademy.co/submit | 14 | 24000 | good | paid |
+| Gpt Forge | https://gptforge.net/ | https://forms.gle/8h1SokDHfcPwkbaZ8 | 14 | 41000 | good | free |
+| GPT Stack | https://www.gpt-stack.com/ | https://www.gpt-stack.com/add-resource | 10 | 100 | good | free |
+| GPTE | https://gpte.ai/ | https://gpte.ai/submit-a-tool/ | 31 | 1400000 | unknown | paid |
+| GPTs Hunter | https://www.gptshunter.com/ | https://www.gptshunter.com/submit-gpt | 59 | 400000 | good | free |
+| Hacker News | https://hackernews.com/ | https://hackernews.com/ | 44 | 300000 | unknown | unknown |
+| Igniter | https://www.igniter.ai/ | https://haroonchoudery499974.typeform.com/to/FpdvtLml | 7 | 100 | bad | unknown |
+| iLib | https://www.ilib.com/ | https://www.ilib.com/dashboard/submissions/new | 16 | 19000 | good | free |
+| Insanely Cool Tools | https://www.insanelycooltools.com/ | https://tally.so/r/31kxN1 | 35 | 8400 | good | free |
+| Insidr AI | https://www.insidr.ai/ | https://www.insidr.ai/submit-tools/ | 40 | 150000 | good | paid |
+| Instant | https://instantai.io/ | https://instantai.io/submit-listing/ | 1.3 | 35000 | bad | unknown |
+| Invent List | https://inventlist.com/ | https://inventlist.com/sites/new | 2.5 | 200 | good | free |
+| Ismailblogger | https://ismailblogger.com/tools-ai/ | https://ismailblogger.com/submit-tools/ | 46 | 10000 | good | free |
+| Joinly | https://www.joinly.xyz/ | https://www.joinly.xyz/submit-startup | 25 | 5000 | good | paid |
+| KitPloit | https://www.kitploit.com/ | https://www.kitploit.com/p/submit-tool.html | 57 | 2100000 | good | free |
+| Lachief | https://www.lachief.io/ | https://tally.so/r/w4Jb4b | 23 | 266000 | good | free |
+| Launched | https://launched.io/ | https://launched.io/SubmitStartup | 38 | 2400 | good | free |
+| Launched Site | https://launched.site/ | https://launched.site/submit | 45 | 10000 | good | free |
+| Launching Next | https://www.launchingnext.com/ | https://www.launchingnext.com/submit/ | 51 | 13000 | good | free |
+| Live Apps | https://liveapps.ai/ | https://liveapps.ai/become-a-partner/ | 12 | 500 | good | free |
+| Look AI Tools | https://lookaitools.com/ | https://lookaitools.com/submission-service/ | 6 | 130 | good | free |
+| MadGenius | https://madgenius.co/ | https://madgenius.co/submit | 10 | 5000 | unknown | paid |
+| Mars AI directory | https://www.marsx.dev/ai-startups | https://www.marsx.dev/ai-startups | 30 | 90000 | good | free |
+| MicroLaunch | https://microlaunch.net/ | https://tally.so/r/mYaR6N | 2 | 10000 | good | free |
+| MicroStartups | https://www.microstartups.co/ | https://www.microstartups.co/list-your-startup/ | 3.1 | 0 | good | free |
+| Next Gen Tools | https://nextgentools.me/ | https://nextgentools.me/submit-your-tool | 27 | 47000 | good | free |
+| NextGenTool | https://nextgentool.io/ | https://nextgentool.io/submit/ | 12 | 300 | good | free |
+| Nextpedia | https://www.nextpedia.io/ | https://www.nextpedia.io/submit-tool/ | 11 | 8000 | bad | unknown |
+| One Hub AI | https://www.onehubai.com/ | https://www.onehubai.com/ | 10 | 4600 | good | paid |
+| Open Future | https://openfuture.ai/ | https://openfuture.ai/submit-tool/ | 31 | 496000 | good | free |
+| Orbic AI | https://orbic.ai/ | https://orbic.ai/submit/tools/ | 5 | 100 | good | free |
+| Paggu | https://www.paggu.com/ | https://www.paggu.com/submit-your-startup/ | 35 | 1000 | good | free |
+| PitchWall | https://pitchwall.co/ | https://pitchwall.co/product/submit | 64 | 59000 | good | free |
+| Post Make | https://postmake.io/ | https://postmake.io/submit | 29 | 10000 | unknown | paid |
+| Product Hunt | https://www.producthunt.com/ | https://www.producthunt.com/posts/new | 75 | 6000000 | good | free |
+| Productivity Directory | https://productivity.directory/ | https://productivity.directory/s/submit | 27 | 42000 | good | free |
+| PureFuture | https://purefuture.net/ | https://purefuture.net/contact/ | 13 | 22000 | good | free |
+| Resource fyi | https://resource.fyi/ | https://resource.fyi/account/submit/ | 39 | 5000 | good | free |
+| Robingood | https://tools.robingood.com/ | https://tools.robingood.com/ | 33 | 5600 | good | free |
+| Saas AI Tools | https://saasaitools.com/ | https://saasaitools.com/submit/ | 33 | 73000 | good | free |
+| Saas Po | https://www.saaspo.com/ | https://www.saaspo.com/submit | 29 | 69000 | good | paid |
+| Saas Surf | https://saassurf.com/ | https://saassurf.com/submit-a-product#submit | 21 | 31000 | good | free |
+| SaasBaba | https://saasbaba.com/ | https://saasbaba.com/add-ai-tool/ | 10 | 9000 | good | free |
+| SaasHub | https://www.saashub.com/ | https://www.saashub.com/submit | 68 | 1600000 | good | free |
+| SaasWorthy | https://www.saasworthy.com/ | https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing | 72 | 172000 | good | free |
+| Sick Tools | https://www.sick.tools/ | https://tally.so/r/wvY09d | 0 | 100 | good | free |
+| Sidebar | https://sidebar.io/ | https://sidebar.io/submit | 71 | 68000 | good | free |
+| SideProjectors | https://www.sideprojectors.com/ | https://www.sideprojectors.com/ | 67 | 52600 | good | free |
+| Sitelike | https://www.sitelike.org/ | https://www.sitelike.org/add-site/ | 70 | 1300000 | good | free |
+| Smart Tools | https://www.smart-tools.ai/ | https://www.smart-tools.ai/en/submit/ | 11 | 123000 | good | free |
+| Software Suggest | https://www.softwaresuggest.com/ | https://www.softwaresuggest.com/artificial-intelligence-software | 77 | 561000 | bad | unknown |
+| Software World | https://softwareworld.co/ | https://softwareworld.co/get-listed/ | 75 | 65000 | good | free |
+| Source Forge | https://sourceforge.net/ | https://sourceforge.net/create/ | 92 | 2500000 | good | free |
+| spsFeed | https://spsfeed.com/ | https://spsfeed.com/ | 0 | 0 | good | free |
+| Stackshare | https://stackshare.io/ | https://stackshare.io/submit/ | 79 | 1600000 | good | free |
+| Startup AI Tools | https://www.startups.fyi/ | https://tally.so/r/3lOGLk | 22 | 13000 | good | free |
+| Startup Base | https://startupbase.io/ | https://startupbase.io/submissions/start | 50 | 3000 | good | paid |
+| Startup Buffer | https://startupbuffer.com/ | https://startupbuffer.com/site/submit | 36 | 16000 | good | free |
+| Startup Collections | https://startupcollections.com/ | https://startupcollections.com/submit-product/ | 22 | 5000 | good | free |
+| Startup Pitch | https://thestartuppitch.com/ | https://thestartuppitch.com/post-a-pitch/ | 40 | 5000 | good | paid |
+| Startup Ranking | https://www.startupranking.com/ | https://www.startupranking.com/startup/create/url-validation | 67 | 25000 | good | free |
+| Startup Roulette | https://startuproulette.com/ | https://startuproulette.com/promote-my-startup/ | 21 | 0 | good | free |
+| Startup Stage | https://startupstage.app/ | https://startupstage.app/startups/new | 25 | 3000 | good | free |
+| Startup Stash | https://startupstash.com/ | https://startupstash.com/add-listing/ | 65 | 370000 | good | paid |
+| Startup88 | https://startup88.com/ | https://startup88.typeform.com/to/CRjWqM | 25 | 300 | good | free |
+| Startups.fyi | https://www.startups.fyi/ | https://tally.so/r/3lOGLk | 25 | 13000 | good | free |
+| Super Tools | https://supertools.therundown.ai/ | https://supertools.therundown.ai/submit | 20 | 380000 | good | free |
+| Synoptica | https://synoptica.com/ | https://synoptica.com/submit-an-ai-tool/ | 17 | 5000 | good | free |
+| Tekpon | https://tekpon.com/get-listed/ | https://tekpon.com/get-listed/ | 54 | 134000 | good | free |
+| That AI Collection | https://github.com/ai-collection/ai-collection | https://www.thataicollection.com/submit/ | 32 | 34000 | bad | free |
+| The ai Generation | https://www.theaigeneration.com/ | https://www.theaigeneration.com/add/ | 11 | 77000 | good | free |
+| The AI Warehouse | https://www.thewarehouse.ai/ | https://inside.thewarehouse.ai/submissions | 11 | 6000 | good | free |
+| The Hack Stack | https://thehackstack.com/ | https://thehackstack.com/register | 10 | 5000 | bad | free |
+| Tiny Startups | https://www.tinystartups.co/ | https://tally.so/r/wMzP8X | 4.4 | 100 | good | free |
+| TipSeason | https://tipseason.com/ai-tools | https://tipseason.com/ai-tools/submit | 27 | 30000 | good | free |
+| Tool AI | https://toolai.io/ | https://toolai.io/en/submit | 7 | 75000 | good | free |
+| Tool Directory | https://tooldirectory.ai/ | https://tooldirectory.ai/submit-tool | 50 | 4000 | good | free |
+| Tool Pilot | https://www.toolpilot.ai/ | https://www.toolpilot.ai/pages/submit-your-ai-tool | 51 | 660000 | good | free |
+| Toolify.ai | https://www.toolify.ai/ | https://www.toolify.ai/login?from=%2Fsubmit | 13 | 340000 | unknown | paid |
+| Toolio AI | https://toolio.ai/ | https://toolio.ai/submit-a-tool | 34 | 23000 | good | paid |
+| Tools AI | https://toolsai.net/ | https://toolsai.net/add-listing/ | 19 | 60000 | bad | unknown |
+| Tools AI Online | https://www.tools-ai.online/ | https://www.tools-ai.online/tool-submit | 11 | 67000 | good | free |
+| Tools Directory | https://aitoolsdirectory.com/ | https://aitoolsdirectory.com/submit-tool | 10 | 100 | good | free |
+| Tools Nocode | https://www.toolsnocode.com/ai | https://www.toolsnocode.com/ai#form1 | 10 | 5000 | unknown | unknown |
+| Tools.so | https://tools.so/ | https://tools.so/ | 15 | 1000 | good | free |
+| ToolScout | https://toolscout.ai/ | https://toolscout.ai/submit | 10 | 23000 | good | free |
+| ToolsFine | https://toolsfine.com/ | https://tally.so/r/3qVzOG | 38 | 34000 | good | free |
+| Toolspedia | https://www.toolspedia.io/ | https://www.toolspedia.io/submit-tool/ | 21 | 26000 | good | paid |
+| Top Apps AI | https://topapps.ai/ | https://topapps.ai/submit | 32 | 890000 | good | free |
+| Under1000MRR.tools | https://under1000mrr.tools/ | https://under1000mrr.tools/submit-product | 0 | 500 | good | paid |
+| Unloc.tools | https://www.unloc.tools/ | https://www.unloc.tools/submit-tool | 20 | 1000 | good | free |
+| Victrays | https://victrays.com/ | https://victrays.com/submit-tool/ | 10 | 5000 | good | paid |
+| Warehouse AI | https://www.thewarehouse.ai/ | https://www.thewarehouse.ai/product-submission | 10 | 15000 | good | free |
+| Webwiki | https://www.webwiki.com/ | https://www.webwiki.com/info/add-website.html | 77 | 15000 | good | free |
+| What the AI | https://whattheai.tech/ | https://whattheai.tech/submit-a-tool/ | 28 | 50000 | good | free |
+| Whatsthebigdata | https://whatsthebigdata.com/ | https://whatsthebigdata.com/submit-new-ai-tool/ | 60 | 2700000 | good | free |
+| Woi AI | https://woy.ai/ | https://woy.ai/submit | 64 | 43400 | good | free |
+| Your Story | https://yourstory.com/ | https://eu.frms.link/g4juley/ | 86 | 8758000 | good | free |
+| AI Tools Submit | https://submitaitools.org/ | https://submitaitools.org/submit-your-ai-tool/ | 15 | 5000 | good | free |
+| AIDir Wiki | https://aidir.wiki/ | https://aidir.wiki/ | 20 | 8000 | good | free |
+| AI Directory Wiki | https://aidirectory.wiki/ | https://aidirectory.wiki/ | 18 | 6000 | good | free |
+| AiDirs Best | https://aidirs.best/ | https://aidirs.best/ | 12 | 3000 | good | free |
+| AI For Developers | https://aifordevelopers.org/ | https://aifordevelopers.org/ | 25 | 15000 | good | free |
+| Ainave | https://www.ainave.com/ | https://www.ainave.com/ | 30 | 50000 | good | free |
+| AI Agent Store | https://aiagentstore.ai/ | https://aiagentstore.ai/ | 20 | 10000 | good | free |
+| AI Agents Live | https://aiagentslive.com/ | https://aiagentslive.com/ | 15 | 5000 | good | free |
+| Trillion Agent | https://trillionagent.com/ | https://trillionagent.com/ | 18 | 8000 | good | free |
+| AI Hubs | https://aihubs.ai/ | https://aihubs.ai/ | 22 | 12000 | good | free |
+| The AI Library | https://www.theailibrary.co/ | https://www.theailibrary.co/ | 25 | 20000 | good | free |
+| AiMatchPro | https://aimatch.pro/ | https://aimatch.pro/ | 15 | 5000 | good | free |
+| AI Pedia Hub | https://aipediahub.com/ | https://aipediahub.com/ | 30 | 40000 | good | free |
+| AI Pulse | https://www.aipulse.fyi/ | https://www.aipulse.fyi/ | 18 | 8000 | good | free |
+| AI Resource Pro | https://airesource.pro/ | https://airesource.pro/ | 15 | 5000 | good | free |
+| AI Respo | https://airespo.com/ | https://airespo.com/ | 12 | 3000 | good | free |
+| AEO Tools | https://www.aeotools.space/ | https://www.aeotools.space/ | 10 | 2000 | good | free |
+| AI Sites Net | https://ai-sites.net/ | https://ai-sites.net/ | 15 | 5000 | good | free |
+| AI Tools Corner | https://aitoolscorner.com/ | https://aitoolscorner.com/ | 18 | 10000 | good | free |
+| AI Super Smart | https://www.aisupersmart.com/ | https://www.aisupersmart.com/ai-tools-directory/ | 20 | 15000 | good | free |
+| AI-Tools Directory | https://ai-tools.directory/ | https://ai-tools.directory/ | 22 | 18000 | good | free |
+| AI Tools List | https://aitoolslist.io/ | https://aitoolslist.io/ | 25 | 20000 | good | free |
+| AI Tools Marketer | https://aitoolsmarketer.com/ | https://aitoolsmarketer.com/ | 18 | 8000 | good | free |
+| AI Top Tools | https://aitoptools.com/ | https://aitoptools.com/ | 30 | 50000 | good | free |
+| AI Tools Magazine | https://aitoolsmagazine.com/ | https://aitoolsmagazine.com/ | 22 | 15000 | good | free |
+| All AI Tools Tech | https://allaitools.tech/ | https://allaitools.tech/ | 25 | 20000 | good | free |
+| aitools.inc | https://aitools.inc/ | https://aitools.inc/ | 20 | 12000 | good | free |
+| AI Tool Trek | https://aitooltrek.com/ | https://aitooltrek.com/ | 18 | 8000 | good | free |
+| All The AI Tools | https://alltheaitools.com/ | https://alltheaitools.com/ | 22 | 15000 | good | free |
+| AI Tools Explore | https://aiex.me/ | https://aiex.me/ | 15 | 5000 | good | free |
+| AI Tools For Me | https://aitoolsforme.com/ | https://aitoolsforme.com/ | 12 | 3000 | good | free |
+| AI Tool List Org | https://www.aitoollist.org/ | https://www.aitoollist.org/ | 18 | 8000 | good | free |
+| AI Journey | https://aijourney.so/ | https://aijourney.so/ | 20 | 10000 | good | free |
+| AiToolz Net | https://aitoolz.net/ | https://aitoolz.net/ | 15 | 5000 | good | free |
+| AI Toolz Dir | https://www.aitoolzdir.com/ | https://www.aitoolzdir.com/ | 27 | 20000 | good | free |
+| AI Parabellum | https://aiparabellum.com/ | https://aiparabellum.com/ | 18 | 8000 | good | free |
+| AI Agents Base | https://aiagentsbase.com/ | https://aiagentsbase.com/ | 15 | 5000 | good | free |
+| AI Agents List | https://aiagentslist.com/ | https://aiagentslist.com/ | 18 | 8000 | good | free |
+| AI Agents Directory | https://aiagentsdirectory.com/ | https://aiagentsdirectory.com/ | 20 | 10000 | good | free |
+| AI Agents Verse | https://aiagentsverse.com/ | https://aiagentsverse.com/ | 15 | 5000 | good | free |
+| Add AI Directory | https://addaidirectory.com/ | https://addaidirectory.com/ | 12 | 3000 | good | free |
+| Agent Hunter | https://www.agenthunter.io/ | https://www.agenthunter.io/ | 18 | 8000 | good | free |
+| Aixyz | https://www.aixyz.co/ | https://www.aixyz.co/ | 22 | 15000 | good | free |
+| AI Tools Saver | https://www.aitoolsaver.com/ | https://www.aitoolsaver.com/ | 15 | 5000 | good | paid |
+| AI Chief | https://aichief.com/ | https://aichief.com/ | 25 | 20000 | good | free |
+| Ask AI For It | https://askaiforit.com/ | https://askaiforit.com/ | 18 | 8000 | good | free |
+| Best of AI | https://bestofai.io/ | https://bestofai.io/ | 25 | 20000 | good | free |
+| Based Tools | https://www.basedtools.ai/ | https://www.basedtools.ai/ | 20 | 12000 | good | free |
+| Best AI Tools Org | https://www.best-ai-tools.org/ | https://www.best-ai-tools.org/ | 22 | 15000 | good | free |
+| Best of Web | https://www.bestofweb.site/ | https://www.bestofweb.site/ | 30 | 25000 | good | free |
+| Beyond AI Tools | https://www.beyondaitools.com/ | https://www.beyondaitools.com/ | 18 | 8000 | good | free |
+| Byblos AI | https://byblosai.com/ | https://byblosai.com/ | 15 | 5000 | good | free |
+| BuildVoyage | https://buildvoyage.com/ | https://buildvoyage.com/ | 12 | 3000 | good | free |
+| ClaudePro Directory | https://claudepro.directory/ | https://claudepro.directory/ | 20 | 10000 | good | free |
+| Cloudbooklet AI | https://www.cloudbooklet.net/ | https://www.cloudbooklet.net/ | 25 | 20000 | good | free |
+| CogList AI | https://coglist.com/ | https://coglist.com/ | 18 | 8000 | good | free |
+| DataLook | https://datalook.io/ | https://datalook.io/ | 22 | 15000 | good | free |
+| Dynamite AI | https://www.dynamite-ai.com/ | https://www.dynamite-ai.com/ | 15 | 5000 | good | free |
+| Dessign AI | https://dessign.net/ | https://dessign.net/ | 40 | 50000 | good | free |
+| Desifounder | https://desifounder.com/ | https://desifounder.com/spotlight | 25 | 20000 | good | free |
+| Dofollow Tools | https://dofollow.tools/ | https://dofollow.tools/ | 30 | 25000 | good | free |
+| EliteAI Tools | https://eliteai.tools/ | https://eliteai.tools/ | 22 | 15000 | good | free |
+| EveryDev AI | https://www.everydev.ai/ | https://www.everydev.ai/ | 20 | 12000 | good | free |
+| Evolmagazine | https://www.evolmagazine.com/ | https://www.evolmagazine.com/en/tools/ | 35 | 40000 | good | free |
+| Expify AI | https://www.expify.ai/ | https://www.expify.ai/ | 25 | 20000 | good | free |
+| Find An AI Tools | https://findanaitools.com/ | https://findanaitools.com/ | 30 | 40000 | good | free |
+| FindYourAgent | https://findyouragent.ai/ | https://findyouragent.ai/ | 18 | 8000 | good | free |
+| Foundr AI | https://foundr.ai/ | https://foundr.ai/ | 22 | 15000 | good | free |
+| Free AI Tool | https://freeaitool.ai/ | https://freeaitool.ai/ | 20 | 12000 | good | free |
+| Futurepedia Wiki | https://futurepedia.wiki/ | https://futurepedia.wiki/ | 25 | 20000 | good | free |
+| FlowTools | https://www.flowtools.co/ | https://www.flowtools.co/ | 18 | 8000 | good | free |
+| FastLaunch | https://fastlaunch.io/ | https://fastlaunch.io/ | 22 | 15000 | good | free |
+| Grabon AI | https://www.grabon.in/indulge/ai-tools/ | https://www.grabon.in/indulge/ai-tools/ | 75 | 2000000 | good | free |
+| God of Prompt | https://godofprompt.ai/ | https://godofprompt.ai/best-ai-tools/ | 35 | 50000 | good | free |
+| GroupifyAI | https://groupify.ai/ | https://groupify.ai/ | 25 | 20000 | good | free |
+| Havnai | https://havnai.com/ | https://havnai.com/ | 20 | 10000 | good | free |
+| HeyAIworld | https://heyaiworld.com/ | https://heyaiworld.com/ | 22 | 15000 | good | free |
+| IA sur mesure | https://iasurmesure.com/ | https://iasurmesure.com/ | 18 | 8000 | good | free |
+| LineZine AI | https://linezine.com/ai-tool-directory | https://linezine.com/ai-tool-directory | 20 | 10000 | good | free |
+| ListYourTool | https://www.listyourtool.com/ | https://www.listyourtool.com/ | 18 | 8000 | good | free |
+| Launch Vault | https://www.launchvault.dev/ | https://www.launchvault.dev/ | 22 | 15000 | good | free |
+| Makerlist | https://makerlist.io/ | https://makerlist.io/ | 25 | 20000 | good | free |
+| Marketing Tools List | https://marketingtoolslist.com/ | https://marketingtoolslist.com/ | 30 | 30000 | good | free |
+| NavTools AI | https://navtools.ai/ | https://navtools.ai/ | 22 | 15000 | good | free |
+| NeonRev | https://www.neonrev.com/ | https://www.neonrev.com/ | 25 | 20000 | good | free |
+| OpenHunts | https://openhunts.com/ | https://openhunts.com/ | 20 | 10000 | good | free |
+| OpenSaas Directory | https://opensaas.directory/ | https://opensaas.directory/ | 22 | 15000 | good | free |
+| OpenTools | https://opentools.ai/ | https://opentools.ai/ | 35 | 100000 | good | free |
+| PoweredbyAI | https://poweredbyai.app/ | https://poweredbyai.app/ | 20 | 10000 | good | free |
+| Startuplist In | https://startuplist.in/ | https://startuplist.in/ | 35 | 50000 | good | free |
+| Stratup AI | https://stratup.ai/ | https://stratup.ai/ | 22 | 15000 | good | free |
+| Startup Tools List | https://startuptoolslist.com/ | https://startuptoolslist.com/ | 25 | 20000 | good | free |
+| Spiff Store | https://spiff.store/ | https://spiff.store/ | 18 | 8000 | good | free |
+| Sales Tools AI | https://salestoolsai.top/ | https://salestoolsai.top/ | 15 | 5000 | good | free |
+| Stackviv | https://stackviv.ai/ | https://stackviv.ai/ | 25 | 20000 | good | free |
+| SearchAI Directory | https://searchaidirectory.com/ | https://searchaidirectory.com/ | 18 | 8000 | good | free |
+| Selljam AI | https://selljam.ai/ | https://selljam.ai/ | 22 | 15000 | good | free |
+| Show Me Best AI | https://showmebest.ai/ | https://showmebest.ai/ | 20 | 10000 | good | free |
+| Submit AI Tools Org | https://submitaitools.org/ | https://submitaitools.org/ | 25 | 20000 | good | free |
+| There's An AI | https://theresanai.com/ | https://theresanai.com/ | 55 | 500000 | good | free |
+| Thank John | https://www.thankjohn.com/ | https://www.thankjohn.com/ | 22 | 15000 | good | free |
+| ToolFinder Wiki | https://toolfinder.wiki/ | https://toolfinder.wiki/ | 25 | 20000 | good | free |
+| Toolwave | https://www.toolwave.io/ | https://www.toolwave.io/ | 22 | 15000 | good | free |
+| TopAI Tools | https://topai.tools/ | https://topai.tools/ | 40 | 200000 | good | free |
+| ToolPasta | https://toolpasta.com/ | https://toolpasta.com/ | 25 | 20000 | good | free |
+| Top Tools AI | https://www.toptools.ai/ | https://www.toptools.ai/ | 22 | 15000 | good | free |
+| Tools Hub AI | https://toolshubai.com/ | https://toolshubai.com/ | 20 | 10000 | good | free |
+| ThatsMyAI | https://thatsmy.ai/ | https://thatsmy.ai/ | 22 | 15000 | good | free |
+| The Next AI Tool | https://thenextaitool.com/ | https://thenextaitool.com/ | 35 | 100000 | good | free |
+| TrustList AI | https://www.trustlist.ai/ | https://www.trustlist.ai/ | 20 | 10000 | good | free |
+| TrustedBy AI | https://www.trustedby.ai/ | https://www.trustedby.ai/ | 25 | 20000 | good | free |
+| Toolkitly | https://www.toolkitly.com/ | https://www.toolkitly.com/ | 22 | 15000 | good | free |
+| Yet Another AI Tool Directory | https://yaatd.com/ | https://yaatd.com/ | 18 | 8000 | good | free |
+
 
 
