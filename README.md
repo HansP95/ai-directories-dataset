@@ -1,3 +1,5 @@
+Last updated: 2025-12-26
+
 # AI Directories Dataset (Submission Links)
 
 Curated list of AI directories with **submission links** + useful metadata (DR, visits, pricing).
